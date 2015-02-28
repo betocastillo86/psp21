@@ -1,0 +1,25 @@
+-classpath
+'C:/Users/Administrator/.m2/repository/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar;C:/Users/Administrator/.m2/repository/org/eclipse/jetty/jetty-server/7.6.0.v20120127/jetty-server-7.6.0.v20120127.jar;C:/Users/Administrator/.m2/repository/org/eclipse/jetty/jetty-servlet/7.6.0.v20120127/jetty-servlet-7.6.0.v20120127.jar;C:/Users/Administrator/.m2/repository/org/eclipse/jetty/jetty-security/7.6.0.v20120127/jetty-security-7.6.0.v20120127.jar;C:/Users/Administrator/.m2/repository/org/eclipse/jetty/jetty-io/7.6.0.v20120127/jetty-io-7.6.0.v20120127.jar;C:/Users/Administrator/.m2/repository/org/eclipse/jetty/jetty-continuation/7.6.0.v20120127/jetty-continuation-7.6.0.v20120127.jar;C:/Users/Administrator/.m2/repository/org/eclipse/jetty/jetty-http/7.6.0.v20120127/jetty-http-7.6.0.v20120127.jar;C:/Users/Administrator/.m2/repository/org/eclipse/jetty/jetty-util/7.6.0.v20120127/jetty-util-7.6.0.v20120127.jar'
+-encoding
+'Cp1252'
+-private
+-sourcepath
+'C:/Projects/Maven/psp21/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2015. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Projects/Maven/psp21/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'psp21 1.0-SNAPSHOT API'
+-linkoffline
+'http://docs.oracle.com/javase/8/docs/api' 'C:/Projects/Maven/psp21/target/javadoc-bundle-options'
+-nohelp
+-use
+-version
+-windowtitle
+'psp21 1.0-SNAPSHOT API'
